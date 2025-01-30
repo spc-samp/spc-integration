@@ -5,14 +5,14 @@ The **SPC Integration** is a plugin developed for SA-MP (San Andreas Multiplayer
 ## Languages
 
 - Português: [README](../../)
-- Deutsch: [README](translations/Deutsch/README.md)
-- Español: [README](translations/Espanol/README.md)
-- Français: [README](translations/Francais/README.md)
-- Italiano: [README](translations/Italiano/README.md)
-- Polski: [README](translations/Polski/README.md)
-- Русский: [README](translations/Русский/README.md)
-- Svenska: [README](translations/Svenska/README.md)
-- Türkçe: [README](translations/Turkce/README.md)
+- Deutsch: [README](../Deutsch/README.md)
+- Español: [README](../Espanol/README.md)
+- Français: [README](../Francais/README.md)
+- Italiano: [README](../Italiano/README.md)
+- Polski: [README](../Polski/README.md)
+- Русский: [README](../Русский/README.md)
+- Svenska: [README](../Svenska/README.md)
+- Türkçe: [README](../Turkce/README.md)
 
 ## Index
 
