@@ -233,7 +233,7 @@ Below is a detailed analysis of the main components of the **SPC Integration** c
 
 ### 1. Server Information Collection
 
-| **Files**          |
+| **Files**           |
 |---------------------|
 | `server_info.h`     |
 | `server_info.cpp`   |
@@ -400,7 +400,7 @@ bool Initialize() {
 
 ### 2. Image URL Validation
 
-| **Files**          |
+| **Files**           |
 |---------------------|
 | `url_validator.h`   |
 | `url_validator.cpp` |
@@ -558,7 +558,7 @@ Both implementations:
 
 ### 3. HTTP Client
 
-| **Files**          |
+| **Files**           |
 |---------------------|
 | `http_client.h`     |
 | `http_client.cpp`   |
@@ -717,8 +717,8 @@ void HTTP_Response::Log_Response() const {
 
 ### 4. Base64 Encoding
 
-| **Files**          |
-|---------------------|
+| **Files**            |
+|----------------------|
 | `base64_encoder.h`   |
 | `base64_encoder.cpp` |
 
@@ -853,7 +853,7 @@ std::string Base64_Encoder::Encode(const std::string& input) {
 
 ### 5. Logging
 
-| **Files**          |
+| **Files**           |
 |---------------------|
 | `logger.h`          |
 
@@ -913,7 +913,7 @@ The pointer `Log_Printf` is declared as external, allowing:
 
 ### 6. Plugin Entry Point
 
-| **Files**          |
+| **Files**           |
 |---------------------|
 | `main.cpp`          |
 
@@ -979,8 +979,8 @@ PLUGIN_EXPORT int PLUGIN_CALL AmxUnload(AMX* Amx) {
 
 ### 7. Definitions and Inclusions
 
-| **Files**          |
- |---------------------|
+| **Files**            |
+|----------------------|
 | `plugin_defines.h`   |
 | `inclusions.h`       |
 
