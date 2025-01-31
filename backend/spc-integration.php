@@ -118,7 +118,7 @@ switch ($action) {
             }
             
             $processed_image_URL = Process_Image_URL($image_URL, $is_encoded);
-            $processed_web_URL = Process_web_URL($web_URL, $is_encoded);
+            $processed_web_URL = Process_Web_URL($web_URL, $is_encoded);
 
             if ($processed_image_URL === false) {
                 $response = [
@@ -208,7 +208,7 @@ switch ($action) {
             }
             
             $processed_image_URL = Process_Image_URL($image_URL, $is_encoded);
-            $processed_web_URL = Process_web_URL($web_URL, $is_encoded);
+            $processed_web_URL = Process_Web_URL($web_URL, $is_encoded);
 
             if ($processed_image_URL === false) {
                 unlink($backup_path);
