@@ -103,9 +103,12 @@ The **SPC Integration** is a plugin developed for SA-MP (San Andreas Multiplayer
         - [2-4. `compile.sh`](#2-4-compilesh)
       - [3. Dockerfile](#3-dockerfile)
   - [License](#license)
-    - [What you can do ✅](#what-you-can-do-)
-    - [What you must do ⚠️](#what-you-must-do-️)
-    - [What you cannot do ❌](#what-you-cannot-do-)
+    - [Terms and Conditions of Use](#terms-and-conditions-of-use)
+      - [1. Granted Permissions](#1-granted-permissions)
+      - [2. Mandatory Conditions](#2-mandatory-conditions)
+      - [3. Restrictions and Limitations](#3-restrictions-and-limitations)
+      - [4. Intellectual Property](#4-intellectual-property)
+      - [5. Disclaimer of Warranty and Limitation of Liability](#5-disclaimer-of-warranty-and-limitation-of-liability)
 
 ## Main Features
 
@@ -1382,77 +1385,44 @@ RUN cmake . && make
 
 ## License
 
-Copyright © SA-MP Programming Community
+Copyright © **SA-MP Programming Community**
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+This software is licensed under the terms of the Apache License, Version 2.0 ("License"); you may not use this software except in compliance with the License. A copy of the License can be obtained at: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-http://www.apache.org/licenses/LICENSE-2.0
+### Terms and Conditions of Use
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+#### 1. Granted Permissions
 
-### What you can do ✅
+This license grants, free of charge, to any person obtaining a copy of this software and associated documentation files, the following rights:
+* Use, copy, modify and distribute the software in any medium or format, for any purpose, commercial or non-commercial
+* Merge, publish, distribute, sublicense and/or sell copies of the software
+* Allow persons to whom the software is furnished to do the same
 
-1. **Commercial Use**: 
-   - You can use the code for commercial purposes
-   - You can sell products that use this code
-   - You can incorporate it into business solutions
+#### 2. Mandatory Conditions
 
-2. **Modification**: 
-   - You can modify the source code
-   - You can adapt it to your needs
-   - You can create derivative works
+All distributions of the software or derivative works must:
+* Include a complete copy of this license
+* Clearly indicate any modifications made to the original source code
+* Preserve all copyright notices, patents, trademarks and attributions
+* Provide adequate documentation of implemented changes
+* Maintain the license and warranty notice in all copies
 
-3. **Distribution**: 
-   - You can distribute the software
-   - You can share your modifications
-   - You can include it in other projects
+#### 3. Restrictions and Limitations
 
-4. **Private Use**: 
-   - You can use and modify the code privately
-   - There's no obligation to make it public
-   - You can use it in internal projects
+* This license does not grant permission to use trademarks, logos or trade names of the **SA-MP Programming Community**
+* Contributions to the source code must be licensed under the same terms of this license
+* Use of contributors' names to endorse or promote products derived from this software requires specific prior permission
 
-5. **Patent Grant**: 
-   - This license explicitly provides patent rights
-   - Protection against contributors' patent claims
-   - Guaranteed use without patent concerns
+#### 4. Intellectual Property
 
-### What you must do ⚠️
+The software and all associated documentation are protected by copyright laws and international treaties. The **SA-MP Programming Community** retains all rights, titles and interests not expressly granted by this license.
 
-1. **Include License**: 
-   - A copy of the license must be included with the code
-   - Must be easily accessible
-   - Must be in its original format
+#### 5. Disclaimer of Warranty and Limitation of Liability
 
-2. **State Changes**: 
-   - Significant changes must be declared
-   - Document important alterations
-   - Maintain a record of modifications
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-3. **Copyright Notice**: 
-   - Preserve all copyright notices
-   - Maintain original attributions
-   - Include notices in all copies
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-4. **Document Changes**: 
-   - Document all changes made
-   - Maintain a changelog
-   - Explain important modifications
+---
 
-### What you cannot do ❌
-
-1. **Use Trademarks**: 
-   - This license does not grant trademark rights
-   - Cannot use names and logos without permission
-   - Requires separate authorization for trademarks
-
-2. **Hold Authors Liable**: 
-   - Authors are not liable for damages
-   - No warranties of operation
-   - Use at your own risk
+For detailed information about the Apache License 2.0, visit: http://www.apache.org/licenses/LICENSE-2.0
