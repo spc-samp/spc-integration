@@ -173,7 +173,7 @@ You need to configure the image URL that will be displayed for your server. Choo
 - **2. config.json (open.mp)**
     ```json
     {
-        "spc_in tegration_image": "https://example.com/image.png"
+        "spc_integration_image": "https://example.com/image.png"
     }
     ```
 
